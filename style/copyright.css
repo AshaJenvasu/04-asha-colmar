@@ -1,0 +1,13 @@
+.copy-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 16px;
+  color: #767676;
+  margin-bottom: 30px;
+}
+
+.term-privacy {
+  display: flex;
+  flex-direction: row;
+}

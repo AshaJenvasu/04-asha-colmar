@@ -85,20 +85,6 @@
   color: #767676;
 }
 
-.copy-right {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-top: 16px;
-  color: #767676;
-  margin-bottom: 30px;
-}
-
-.term-privacy {
-  display: flex;
-  flex-direction: row;
-}
-
 @media (max-width: 768px) {
   .fourth-banner {
     display: none;
